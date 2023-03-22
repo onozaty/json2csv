@@ -1,0 +1,17 @@
+{
+  "title": "W3Schools Home Page",
+  "link": "https://www.w3schools.com",
+  "description": "Free web building tutorials",
+  "items": [
+    {
+      "title": "RSS Tutorial",
+      "link": "https://www.w3schools.com/xml/xml_rss.asp",
+      "description": "New RSS tutorial on W3Schools"
+    },
+    {
+      "title": "XML Tutorial",
+      "link": "https://www.w3schools.com/xml",
+      "description": "New XML tutorial on W3Schools"
+    }
+  ]
+}
