@@ -1,0 +1,18 @@
+{
+    "rowsPath": "/*",
+    "columns": [
+        {
+            "header": "id",
+            "valuePath": "/id"
+        },
+        {
+            "header": "name",
+            "valuePath": "/name"
+        },
+        {
+            "header": "male",
+            "valuePath": "boolean(/gender[text()='male'])",
+            "useEvaluate": true
+        }
+    ]
+}
